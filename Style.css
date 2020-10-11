@@ -1,0 +1,22 @@
+.navbar-brand {
+    background-color: gainsboro;
+
+}
+
+
+body {
+    background-color: deepskyblue;
+
+}
+
+.content {
+    width: 400px;
+    height: 300px;
+    margin-top: 200px;
+    align-items: center;
+
+}
+
+img {
+    width: 15%;
+}
